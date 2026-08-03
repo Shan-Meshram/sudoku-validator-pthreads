@@ -68,12 +68,12 @@ Pthreads is usually pre-installed with GCC on Linux systems. To confirm, check f
 
 
 ## Contents of the folder
-- Assignsrc1-CO23BTECH11003.c : The source code which contains the chunk method
-- Assignsrc2-CO23BTECH11003.c : The source code which contains the mixed method
-- Assignsrc3-CO23BTECH11003.c : The source code which contains the sequential method
+- Assignsrc1-CO24BTECH11022.c : The source code which contains the chunk method
+- Assignsrc2-CO24BTECH11022.c : The source code which contains the mixed method
+- Assignsrc3-CO24BTECH11022.c : The source code which contains the sequential method
 - inp.txt : The input file which contains the value of N, K and the sudoku to be validated
-- Assgn1Readme-CO23BTECH11003.txt : The current file
-- Assgn1Report-CO23BTECH11003.pdf : Report giving the analysis of the experiment done
+- Assgn1Readme-CO24BTECH11022.txt : The current file
+- Assgn1Report-CO24BTECH11022.pdf : Report giving the analysis of the experiment done
 
 
 ## About the Code
@@ -103,7 +103,7 @@ Make sure inp.txt is in the same folder as the source files.
 
 
 ## Getting Help
-If you are stuck and need help in understanding the code as well as for executing this C program, you may please write to the email address: co23btech11003@iith.ac.in . Kindly provide with details of the exact issues that you are facing to get the correct guidence.
+If you are stuck and need help in understanding the code as well as for executing this C program, you may please write to the email address: co24btech11022@iith.ac.in . Kindly provide with details of the exact issues that you are facing to get the correct guidence.
 
 
 
